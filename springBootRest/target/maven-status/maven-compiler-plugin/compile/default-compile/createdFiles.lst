@@ -1,0 +1,5 @@
+com\springBootRest\model\Persona.class
+com\springBootRest\ApiRest.class
+com\springBootRest\DAO\PersonaDao.class
+com\springBootRest\repository\PersonaRepository.class
+com\springBootRest\service\PersonaService.class
